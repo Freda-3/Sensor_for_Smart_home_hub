@@ -15,3 +15,6 @@ updated for path on Raspberry Pi, this is the test for for Mac book that was tes
 
 # main.py 
 starts gathering data from DHT11 temperature and humidity sesnsor on power up. This file is currently missing as it was mistakenly only saved to the pico prior to me leaving for vacation. 
+
+# secrets.py
+contains SSID and Password for local Wifi
